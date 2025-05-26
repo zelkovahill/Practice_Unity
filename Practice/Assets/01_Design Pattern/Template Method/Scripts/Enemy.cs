@@ -43,7 +43,7 @@ namespace TemplateMethod
     {
         public override void Initialize(IAction action)
         {
-            this._action = action;
+            this._action = new DamageAction(7);
         }
     }
 
@@ -52,7 +52,7 @@ namespace TemplateMethod
     {
         public override void Initialize(IAction action)
         {
-            this._action = action;
+            this._action = new HealAction(7);
         }
     }
 }
