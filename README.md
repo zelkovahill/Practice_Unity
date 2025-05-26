@@ -13,4 +13,4 @@
 |패턴|설명|
 |-|-|
 |[MVC](https://github.com/zelkovahill/Practice_Unity/tree/main/Practice/Assets/01_Design%20Pattern/MVC)|Model-View-Controller 구조로 체력 시스템 구현|
-|[Template Method](https://github.com/zelkovahill/Practice_Unity/01_Design%20Pattern/TemplateMethod)|적의 공격 흐름을 템플릿 메서드로 구현|
+|[Template Method](https://github.com/zelkovahill/Practice_Unity/tree/main/Practice/Assets/01_Design%20Pattern/Template%20Method)|적의 공격 흐름을 템플릿 메서드로 구현|
